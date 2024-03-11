@@ -8,7 +8,7 @@ The game itself is not the most flashy or awesome but it could be used as part o
 add sound effects and animations etc the project could turn into something with potential. It can also be used as part of as battle system
 for characters who have pets etc.
 
-## 1.To run Simple open the Unity Project. Make sure the Scene "Game" is loaded in.
+## 1. To run Simple open the Unity Project. Make sure the Scene "Game" is loaded in.
   If not loaded load in from the Assets/Scenes/ and select Game
 ## 2. Run the game.
 ## 3. You can fly around with standard WASD controls with Mouse 2 to move view direction.
