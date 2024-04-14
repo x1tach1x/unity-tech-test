@@ -1,4 +1,4 @@
-# unity-tech-test
+# Unity-Navigation-Test
 
 This is a simple game of Fetch to demonstrate optimal path finding. The algorithm is set up to work with a grid without hard coding in the grid size.
 It also generates the grid nodes as they are needed.
